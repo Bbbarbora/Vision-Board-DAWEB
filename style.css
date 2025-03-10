@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main--text--box {
+    width: 50vw;
+    margin: 0 auto;
+
+}
+
+.icon{
+    max-width: 5rem;
+
+
+}
+
+.hero--container{
+    margin: 0 auto;
+    width: 60vw;
+
+}
+
+
+.hero--photo {
+    margin: 0 auto;
+    width: 60vw;
+    max-width: 500px;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
